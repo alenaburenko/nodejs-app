@@ -11,7 +11,7 @@
     "type": "git",
     "url": ""
   },
-  "author":"",
+  "author": "",
   "license": "ISC",
   "homepage": "https://github.com/alenaburenko/nodejs-app",
   "devDependencies": {
