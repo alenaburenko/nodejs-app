@@ -1,5 +1,5 @@
 {
-  "name": "node-js-app",
+  "name": "nodejs-app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -13,7 +13,7 @@
   },
   "author":"",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/alenaburenko/nodejs-app",
   "devDependencies": {
     "nodemon": "^2.0.7"
   },
